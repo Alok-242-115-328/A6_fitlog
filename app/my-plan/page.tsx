@@ -274,12 +274,12 @@ export default function MyPlanPage() {
         )}
       </div>
 
-      {/* Toast */}
-      {toast && (
-        <div className="fixed bottom-6 right-6 bg-[#ccff00] text-black font-bold text-sm px-5 py-3 rounded-lg shadow-2xl z-[100]">
-          {toast}
-        </div>
-      )}
+     {/* Toast — Top Right */}
+{toast && (
+  <div className="fixed top-24 right-6 bg-[#ccff00] text-black font-bold text-sm px-5 py-3 rounded-lg shadow-2xl shadow-black/50 z-[100]">
+    {toast}
+  </div>
+)}
     </div>
   );
 
