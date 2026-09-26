@@ -71,7 +71,9 @@ npm install
 npm run dev
 ```
 
-Now open [http://localhost:3000](http://localhost:3000) in your browser.
+## 📬 Submission Links
+
+- 🌐 **Live Demo:** [https://strong-baklava-7f5a6d.netlify.app](https://strong-baklava-7f5a6d.netlify.app)
 
 ### Build for Production
 
@@ -128,7 +130,7 @@ fitlog/
 
 **Alok Talukder**
 
-- GitHub: [@Alok-242-115-328](https://github.com/Alok-242-115-328)
+- 📂 **GitHub Repository:** [https://github.com/Alok-242-115-328/A6_fitlog](https://github.com/Alok-242-115-328/A6_fitlog)
 
 ---
 
